@@ -2,10 +2,10 @@
 	<html lang="en">
 	<head>
 		<meta charset="UTF-8">
-		<title> 1_no_assigment (two varable print) </title>
+		<title> 2_no_assigment (print all type of array) </title>
 	</head>
 	<body>
-		<h2> 1_no_assigment (two varable print) </h2>
+		<h2> 2_no_assigment (print all type of array) </h2>
 		<h2> print all type of array , print all the string function </h2> <br><br>
 
 		<h3> no. 1 Indexed arrays example </h3>
